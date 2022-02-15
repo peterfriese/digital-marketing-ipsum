@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/andrewcorp/digital-marketing-ipsum/issues"
   },
-  "homepage": "https://github.com/andrewcorp/digital-marketing-ipsum#readme"
+  "homepage": "https://github.com/andrewcorp/digital-marketing-ipsum#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
