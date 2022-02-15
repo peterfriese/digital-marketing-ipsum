@@ -1,1 +1,0 @@
-declare module "digital-marketing-ipsum";

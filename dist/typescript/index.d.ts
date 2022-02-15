@@ -1,4 +1,3 @@
-/// <reference path="../../typescript/typings.d.ts" />
 interface Opts {
     paragraphs?: number;
     sentenceMin?: number;

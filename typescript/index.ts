@@ -1,5 +1,3 @@
-/// <reference path="./typings.d.ts" />
-
 import helpers from './helpers';
 
 import * as verbData from '../data/verbs.json';
